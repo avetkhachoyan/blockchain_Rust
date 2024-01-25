@@ -1,4 +1,4 @@
-#Blockchain app, codded on Rust
+# Blockchain app, codded on Rust
 *`tl;dr,`*
 
 Look at ./src for the source (.rs)
